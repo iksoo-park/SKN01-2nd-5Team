@@ -31,8 +31,13 @@ SKNETWORKS-FAMILY-AICAMP 과정 2차 프로젝트
 - Python, Django, SQLAlchemy, FastAPI, MYSQL, Docker, Redis, HTML5/CSS3, JavaScript, Vue3, Vuetify3, TensorFlow, Keras, axios, Graphviz
 
 # 4. Agile Board (애자일 보드)
-
+<p align="center">
+  <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/3ff94cd8-36b3-4ddb-892a-516fea64e62b">
+</p>
 # 5. Commit History (커밋 이력)
+<p align="center">
+  <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/28988d88-849e-4cfd-bd2f-6ffca0882840">
+</p>
 
 # 6. 발생한 이슈 내역  
 
@@ -47,7 +52,17 @@ SKNETWORKS-FAMILY-AICAMP 과정 2차 프로젝트
 # 7. ERD
 
 # 8. 주요 Domain 요소들
+<p align="center">
+  <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/397f84f9-14b2-43d8-a75a-b4a016b21af7">
+</p>
 
 # 9. 수행결과(테스트/시연 페이지)
 
+  http://192.168.0.41:8080/
+
 # 10. 한 줄 회고
+- 한재혁 : 
+- 이민재 : 
+- 최명근 : 
+- 박주현 : 부족함을 느끼고, 앞으로 어떻게 공부해야 될지 방향을 잡는 시간이었습니다.
+- 이경민 :
