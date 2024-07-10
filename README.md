@@ -1,7 +1,7 @@
 # SKN01-2nd-5Team
 Vue + Django + FastAPI 기반 가입 고객 이탈 예측 및 구매 동향 예측  
 
-OO과정 n차 프로젝트
+SKNETWORKS-FAMILY-AICAMP 과정 2차 프로젝트
 
 ## WBS를 Agile Board(애자일 보드) 로 변경
 
@@ -13,14 +13,19 @@ OO과정 n차 프로젝트
 ```
 
 # 1. 팀 소개
-- 팀명
+- 팀명: BBZ (The Backlog BusterZ)
 - 멤버 개인 깃허브 계정과 연동
+- 한재혁 : Jh-jaehyuk
+- 이민재 : Meue-L
+- 최명근 : RUVIST
+- 박주현 : iksoo-park
+- 이경민 : 2kilometer
 
 # 2. 프로젝트 개요
-- 프로젝트 명
-- 프로젝트 소개
-- 프로젝트 필요성(배경)
-- 프로젝트 목표
+- 프로젝트 명 : 호텔 고객 동향분석
+- 프로젝트 소개 : 호텔고객 동향 분석과 고객이탈 예측 서비스 개발
+- 프로젝트 필요성(배경) : 워커힐호텔의 매출극대화를 위해 고객 맞춤 추천 서비스와 고객이탈 예측 프로그램 개발 필요.  
+- 프로젝트 목표 : 호텔 서비스 페이지 및 개인맞춤형 추천 서비스, 관리자를 위한 고객이탈 예측 서비스를 개발합니다.
 
 # 3. 기술 스택
 - Python, Django, SQLAlchemy, FastAPI, MYSQL, Docker, Redis, HTML5/CSS3, JavaScript, Vue3, Vuetify3, TensorFlow, Keras, axios, Graphviz
